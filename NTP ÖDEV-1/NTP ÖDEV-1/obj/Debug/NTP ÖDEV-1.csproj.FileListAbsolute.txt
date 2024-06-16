@@ -1,0 +1,10 @@
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\bin\Debug\NTP ÖDEV-1.exe.config
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\bin\Debug\NTP ÖDEV-1.exe
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\bin\Debug\NTP ÖDEV-1.pdb
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\obj\Debug\NTP ÖDEV-1.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\obj\Debug\NTP_ÖDEV_1.Form1.resources
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\obj\Debug\NTP_ÖDEV_1.Properties.Resources.resources
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\obj\Debug\NTP ÖDEV-1.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\obj\Debug\NTP ÖDEV-1.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\obj\Debug\NTP ÖDEV-1.exe
+C:\Users\faruk\source\repos\NTP ÖDEV-1\NTP ÖDEV-1\obj\Debug\NTP ÖDEV-1.pdb

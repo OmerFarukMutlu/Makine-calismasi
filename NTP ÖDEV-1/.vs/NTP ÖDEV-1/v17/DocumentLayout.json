@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faruk\\Desktop\\projeler\\c#(NTP)\\\u00D6dev-2\\NTP \u00D6DEV-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9CD8E5-E586-43AA-A608-4F8C5D2FDA99}|NTP \u00D6DEV-1\\NTP \u00D6DEV-1.csproj|c:\\users\\faruk\\desktop\\projeler\\c#(ntp)\\\u00F6dev-2\\ntp \u00F6dev-1\\ntp \u00F6dev-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9CD8E5-E586-43AA-A608-4F8C5D2FDA99}|NTP \u00D6DEV-1\\NTP \u00D6DEV-1.csproj|solutionrelative:ntp \u00F6dev-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9CD8E5-E586-43AA-A608-4F8C5D2FDA99}|NTP \u00D6DEV-1\\NTP \u00D6DEV-1.csproj|C:\\Users\\faruk\\Desktop\\projeler\\c#(NTP)\\\u00D6dev-2\\NTP \u00D6DEV-1\\ntp \u00F6dev-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A9CD8E5-E586-43AA-A608-4F8C5D2FDA99}|NTP \u00D6DEV-1\\NTP \u00D6DEV-1.csproj|solutionrelative:ntp \u00F6dev-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\faruk\\Desktop\\projeler\\c#(NTP)\\\u00D6dev-2\\NTP \u00D6DEV-1\\NTP \u00D6DEV-1\\Form1.cs",
+              "RelativeDocumentMoniker": "NTP \u00D6DEV-1\\Form1.cs",
+              "ToolTip": "C:\\Users\\faruk\\Desktop\\projeler\\c#(NTP)\\\u00D6dev-2\\NTP \u00D6DEV-1\\NTP \u00D6DEV-1\\Form1.cs",
+              "RelativeToolTip": "NTP \u00D6DEV-1\\Form1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAGwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:14:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\faruk\\Desktop\\projeler\\c#(NTP)\\\u00D6dev-2\\NTP \u00D6DEV-1\\NTP \u00D6DEV-1\\Form1.cs",
+              "RelativeDocumentMoniker": "NTP \u00D6DEV-1\\Form1.cs",
+              "ToolTip": "C:\\Users\\faruk\\Desktop\\projeler\\c#(NTP)\\\u00D6dev-2\\NTP \u00D6DEV-1\\NTP \u00D6DEV-1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "NTP \u00D6DEV-1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:10:32.734Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
